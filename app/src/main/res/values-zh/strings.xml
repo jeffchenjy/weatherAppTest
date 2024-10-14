@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="home">主頁</string>
+    <string name="aboutTitle">About</string>
+    <string name="copyrightTitle">Copyright</string>
+    <string name="exit">離開</string>
+    <string name="languageSettings">語言設置</string>
+    <string name="citySelect">選擇縣市</string>
+
+    <string name="county">縣市</string>
+    <string name="time">時間</string>
+    <string name="temperature">溫度</string>
+    <string name="weather">天氣狀況</string>
+    <string name="comfort">舒適度</string>
+    <string name="pop">降雨機率</string>
+    <!-- Locale Fragment -->
+    <string name="english">English</string>
+    <string name="chinese">繁體中文</string>
+    <string name="japanese">日本語</string>
+
+    <!-- Select City Fragment-->
+    <string name="taipeiCity">臺北市</string>
+    <string name="newTaipeiCity">新北市</string>
+    <string name="taoyuanCity">桃園市</string>
+    <string name="taichungCity">臺中市</string>
+    <string name="kaohsiungCity">高雄市</string>
+    <string name="yilanCounty">宜蘭縣</string>
+    <string name="hsinchuCounty">新竹縣</string>
+    <string name="hsinchuCity">新竹市</string>
+    <string name="miaoliCounty">苗栗縣</string>
+    <string name="changhuaCounty">彰化縣</string>
+    <string name="nantouCounty">南投縣</string>
+    <string name="yunlinCounty">雲林縣</string>
+    <string name="chiayiCounty">嘉義縣</string>
+    <string name="chiayiCity">嘉義市</string>
+    <string name="pingtungCounty">屏東縣</string>
+    <string name="taitungCounty">臺東縣</string>
+    <string name="hualienCounty">花蓮縣</string>
+    <string name="penghuCounty">澎湖縣</string>
+    <string name="keelungCity">基隆市</string>
+    <string name="lienchiangCounty">連江縣</string>
+    <string name="kinmenCounty">金門縣</string>
+
+
+    <string name="escTitle">離開</string>
+    <string name="aboutApp">Hello</string>
+    <string name="esc">是否要退出應用程式?</string>
+    <string name="copyright">Copyright © 2024 Jhih-Yong, Chen</string>
+    <string name="ok">是</string>
+    <string name="no">否</string>
+    <string name="cancel">取消</string>
+</resources>

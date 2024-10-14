@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="home">Home</string>
+    <string name="aboutTitle">About</string>
+    <string name="copyrightTitle">Copyright</string>
+    <string name="exit">Exit</string>
+    <string name="languageSettings">Language Settings</string>
+
+    <string name="citySelect">Select City</string>
+
+
+    <string name="county">County</string>
+    <string name="time">Time</string>
+    <string name="temperature">Temperature</string>
+    <string name="weather">Weather</string>
+    <string name="comfort">Comfortable</string>
+    <string name="pop">PoP</string>
+    <!-- Locale Fragment -->
+    <string name="english">English</string>
+    <string name="chinese">繁體中文</string>
+    <string name="japanese">日本語</string>
+
+    <!-- Select City Fragment-->
+    <string name="taipeiCity">Taipei City</string>
+    <string name="newTaipeiCity">New Taipei City</string>
+    <string name="taoyuanCity">Taoyuan City</string>
+    <string name="taichungCity">Taichung City</string>
+    <string name="kaohsiungCity">Kaohsiung City</string>
+    <string name="yilanCounty">Yilan County</string>
+    <string name="hsinchuCounty">Hsinchu County</string>
+    <string name="hsinchuCity">Hsinchu City</string>
+    <string name="miaoliCounty">Miaoli County</string>
+    <string name="changhuaCounty">Changhua County</string>
+    <string name="nantouCounty">Nantou County</string>
+    <string name="yunlinCounty">Yunlin County</string>
+    <string name="chiayiCounty">Chiayi County</string>
+    <string name="chiayiCity">Chiayi City</string>
+    <string name="pingtungCounty">Pingtung County</string>
+    <string name="taitungCounty">Taitung County</string>
+    <string name="hualienCounty">Hualien County</string>
+    <string name="penghuCounty">Penghu County</string>
+    <string name="keelungCity">Keelung City</string>
+    <string name="lienchiangCounty">Lienchiang County</string>
+    <string name="kinmenCounty">Kinmen County</string>
+
+    <string name="escTitle">Exit</string>
+    <string name="aboutApp">Hello</string>
+    <string name="esc">exit the app?</string>
+    <string name="copyright">Copyright © 2024 Jhih-Yong, Chen</string>
+    <string name="ok">Ok</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
